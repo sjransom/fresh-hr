@@ -26,3 +26,9 @@ body {
   padding: 1rem;
   flex: 1 0 auto;
 }
+
+.avatar {
+  border-radius: 50%;
+  width: 225px;
+  height: 225px;
+}
