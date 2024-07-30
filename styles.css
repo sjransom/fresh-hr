@@ -33,7 +33,11 @@ p {
   font-size: 0.75rem;
 }
 
-.container {
+.logo {
+  width: 177px;
+}
+
+.main {
   width: 100%;
   max-width: 60rem;
   margin: 0 auto;
@@ -45,4 +49,12 @@ p {
   border-radius: 50%;
   width: 225px;
   height: 225px;
+}
+
+@media screen and (max-width: 57rem) {
+  .avatar {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
 }
