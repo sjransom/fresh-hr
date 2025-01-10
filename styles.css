@@ -46,6 +46,10 @@ h2 {
   text-align: center;
 }
 
+.content a {
+  color: #333;
+}
+
 ul {
   list-style: none;
   padding: 0;
